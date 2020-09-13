@@ -19,7 +19,7 @@ end
 def remove_element_from_end_of_array(array)
   stuff_learned = ["strings", "integers", "arrays"]
   stuff_forgotten = stuff_leanred.pop 
-  
+  puts stuff_learned.inspect
 end
 
 def remove_element_from_start_of_array(array)
