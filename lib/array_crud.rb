@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   stuff_learned = ["strings", "integers", "arrays!"]
-  stuff_leanred.pop
+  unlearn_arrays = stuff_leanred.pop
   
 end
 
